@@ -1,0 +1,5 @@
+1. сделали fork;
+2. сделали git clone git@github.com:Boris203/git-basics.git ;
+3. создали файл test.txt ;
+4. добавили текст в тест.тхт
+5. будем делать Коммит
